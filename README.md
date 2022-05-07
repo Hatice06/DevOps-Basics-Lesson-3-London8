@@ -15,4 +15,4 @@ This is the base repo to clone for the DevOps lesson 3. It has a basic Express.j
 
 ## Testing the Application
 
-* You can run unit test via `npm test`. 
+* You can run unit test via `npm test`.
